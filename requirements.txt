@@ -1,0 +1,10 @@
+# 核心依赖
+selenium==4.16.0
+webdriver_manager==4.0.1
+
+# 日志和工具
+python-json-logger==2.0.7
+requests==2.31.0
+
+# 时间处理
+python-dateutil==2.8.2 
